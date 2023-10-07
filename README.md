@@ -1,4 +1,4 @@
-## Web Scraping of Nike Website to create a repository of weekly featured show collection for men.
+## Web Scraping of Nike Website to create a repository of weekly featured shoe collection for men.
 
 ## Overview
 The goal is to build an ETL pipeline using the data scraped from Nike website on AWS. The pipeline will rerieve data from Nike website, transform it to a desired format and load it into AWS data store.
